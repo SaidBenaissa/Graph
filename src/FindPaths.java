@@ -1,11 +1,6 @@
 /**
  *  d95wang@uw.edu, Derek Wang
 	eric95@uw.edu, Eric Eckert
-
-	CSE 373 Fall 2015
-	Instructor Kevin Quinn
-
-	Homework - Graphs
  */
 
 import java.util.*;
