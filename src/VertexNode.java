@@ -1,13 +1,7 @@
 /**
  *  d95wang@uw.edu, Derek Wang
 	eric95@uw.edu, Eric Eckert
-
-	CSE 373 Fall 2015
-	Instructor Kevin Quinn
-
-	Homework - Graphs
-	
-	This class is used in performing dijkstra's algorithm by containing copies
+	perform dijkstra's algorithm by containing copies
 	of the vertices, their cost information, and the node before it in the shortest
 	path to arrive at this node. Allows for the vertex object to immutable
  */
